@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @affan-01
+- 👋 Hi
 - 👀 I’m interested in web dev
 - 💞️ I’m looking to collaborate on open source that involves web dev
 
